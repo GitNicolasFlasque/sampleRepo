@@ -1,4 +1,5 @@
 long func_11(long p)
 {
-     return p+11;
+	// great comment here
+     return 11+p; // reverse terms please
 }
