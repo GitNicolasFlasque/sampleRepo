@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+long func_6(long val)
+{
+    return 3+val+3;
+=======
+long func_6(long param)
+{
+	// param name is now relevant
+     return param+6;
+>>>>>>> master
+}
