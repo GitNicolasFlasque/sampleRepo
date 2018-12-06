@@ -1,6 +1,10 @@
 #ifndef SOURCE_11_H_INCLUDED
 #define SOURCE_11_H_INCLUDED
 
-long func_11(long);
+/**
+\brief a function
+\param a param
+*/
+long func_11(long param);
 
 #endif
