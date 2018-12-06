@@ -1,4 +1,5 @@
-long func_39(long p)
+long func_39(long param)
 {
-     return p+39;
+	// modification from GitNicolas
+     return param+39;
 }
